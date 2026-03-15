@@ -1,0 +1,7 @@
+{
+  "port": 51515,
+  "apiKey": "changeme",
+  "retentionDays": 14,
+  "storageDir": "./storage/audio",
+  "dbPath": "./storage/radio.db"
+}
